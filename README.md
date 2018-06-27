@@ -1,8 +1,8 @@
-# Matplotlib
+# Matplotlib Assignment
 
 Completed Pyber assingment
 
-Solution File: https://github.com/Kalsoomalik/Matplotlib/blob/master/Pyber/pyber_solution.ipynb
+Solution File: https://github.com/Kalsoomalik/Matplotlib-assignment/blob/master/Pyber/pyber_solution.ipynb
 
 Trends File: Observable_trends.txt
 

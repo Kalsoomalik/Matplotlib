@@ -1,6 +1,10 @@
 # Matplotlib
 
-Pyber Solution
+Completed Pyber assingment
+
+Solution File: https://github.com/Kalsoomalik/Matplotlib/blob/master/Pyber/pyber_solution.ipynb
+
+Trends File: Observable_trends.txt
 
 
 # Unit 5 | Assignment - The Power of Plots

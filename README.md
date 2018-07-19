@@ -2,9 +2,9 @@
 
 Completed Pyber assingment
 
-Solution File: https://github.com/Kalsoomalik/Matplotlib-assignment/ride-sharing/pyber_solution.ipynb
+Solution File: https://github.com/Kalsoomalik/Matplotlib-assignment/blob/master/ride-sharing/pyber_solution.ipynb
 
-Trends File: Observable_trends.txt
+Trends File: Observable_trends.txt: https://github.com/Kalsoomalik/Matplotlib-assignment/blob/master/ride-sharing/Observable_trends.txt
 
 
 # Unit 5 | Assignment - The Power of Plots
